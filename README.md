@@ -8,4 +8,4 @@ I'm a beginner in GameDev, generally using Godot Engine.
 🏳️‍🌈 • Aroace 
 🧩 • Autism LV1 + ADHD
 💻 • Arch Linux XFCE (Manually Configured)
-🐺 • Furry but not mainly```
+🐺 • Furry but not mainly
