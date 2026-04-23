@@ -2,10 +2,11 @@
 
 Eh, You can just call me **Tanako**, **Ost** or **Tan**.
 
-A Developer that TRIES to make a game and FAIL in 5 seconds.
+A Developer that **TRIES** to make a game and **FAIL** in 5 seconds.
 
 ``` info.tanako
-He / Him
-Furry
-´´´
+- Brazil
+- He / Him
+- Furry
+
 
