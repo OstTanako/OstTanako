@@ -2,6 +2,7 @@
 
 
 #
+
 ```
     👤・18y
     🇧🇷・Brazil
@@ -15,21 +16,22 @@
 ```
 
 #
+
 ```
     ⚙️・GDScript  [Godot Engine], [Some Knowledge]
     🌙・Lua  [Learning]
     ☕・JavaScript  [Not Started]
     🟪・C#  [Not Started]
 ```
-**⚠️・NOTE:** For now, i don't planning anything, due to personal.
+**⚠️・NOTE:** For now, i don't planning anything, due to personal stuff.
 
 #
+
 Actually interested on **[GameDev] Game Development** & **[Tech] Technology**. 
+
 Also interested on **[UI/UX] User Interface**.
 
 #
-<!--> GitHub Stats <!-->
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OstTanako&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=OstTanako&hide_title=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
-<!--> Top Languages <!-->
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=OstTanako&layout=pie&hide_title=true&langs_count=5&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=OstTanako&layout=pie&hide_title=true&langs_count=5&theme=tokyonight)
